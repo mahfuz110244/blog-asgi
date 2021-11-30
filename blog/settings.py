@@ -89,16 +89,6 @@ DATABASES = {
         'PORT': int(env('DB_PORT')),
     }
 }
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': "blog",
-#         'USER': "mahfuz",
-#         'PASSWORD': "bs23",
-#         'HOST': "localhost",
-#         'PORT': 5432,
-#     }
-# }
 
 
 # Password validation
